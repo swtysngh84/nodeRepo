@@ -4,3 +4,4 @@ var {Todo}=require('./models/todo');
 //Todo.remove({}).then((result)=>{
 //    console.log(result)
 //});
+Todo.findOneAndR
